@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning for a software engineer at MAUP
 - 💞️ I’m looking to collaborate on with people with whom it will be pleasant to communicate and together we can move on and develop.
 - 📫 How to reach me 
+    
     My work mail: kulibabaroman6@gmail.com
+    
     My telegram: https://t.me/RoKuflame
+    
     My instagram: https://www.instagram.com/rokuflame/?hl=ru
 
 <!---
